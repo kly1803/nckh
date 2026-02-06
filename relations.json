@@ -1,0 +1,44 @@
+{
+  "curriculum_subjects": [
+    {
+      "from": "curriculum:mis:vi",
+      "to": "subject:microeconomics:vi"
+    },
+    {
+      "from": "curriculum:mis:vi",
+      "to": "subject:mis:vi"
+    },
+    {
+      "from": "curriculum:mis:vi",
+      "to": "subject:dsa:vi"
+    }
+  ],
+
+  "subject_skills": [
+    {
+      "from": "subject:mis:vi",
+      "to": "skill:analysis:vi",
+      "level": "advanced"
+    },
+    {
+      "from": "subject:dsa:vi",
+      "to": "skill:analysis:vi",
+      "level": "basic"
+    }
+  ],
+
+  "career_skills": [
+    {
+      "from": "career:business-analyst:vi",
+      "to": "skill:analysis:vi",
+      "importance": "high"
+    }
+  ],
+
+  "curriculum_careers": [
+    {
+      "from": "curriculum:mis:vi",
+      "to": "career:business-analyst:vi"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "curricula": [
+    {
+      "id": "curriculum:mis:vi",
+      "name": "Hệ thống thông tin quản lý",
+      "locale": "vi",
+      "description": "Chương trình đào tạo ngành Hệ thống thông tin quản lý, hướng tới đào tạo Business Analyst và các vị trí liên quan."
+    }
+  ],
+
+  "subjects": [
+    {
+      "id": "subject:microeconomics:vi",
+      "name": "Kinh tế vi mô",
+      "credits": 3,
+      "locale": "vi"
+    },
+    {
+      "id": "subject:mis:vi",
+      "name": "Hệ thống thông tin quản lý",
+      "credits": 3,
+      "locale": "vi"
+    },
+    {
+      "id": "subject:dsa:vi",
+      "name": "Cấu trúc dữ liệu và Giải thuật",
+      "credits": 3,
+      "locale": "vi"
+    }
+  ],
+
+  "skills": [
+    {
+      "id": "skill:analysis:vi",
+      "name": "Kỹ năng phân tích",
+      "locale": "vi"
+    }
+  ],
+
+  "careers": [
+    {
+      "id": "career:business-analyst:vi",
+      "name": "Business Analyst",
+      "locale": "vi"
+    }
+  ]
+}
